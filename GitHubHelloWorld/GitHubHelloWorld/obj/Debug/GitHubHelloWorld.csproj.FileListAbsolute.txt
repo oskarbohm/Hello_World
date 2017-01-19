@@ -1,0 +1,6 @@
+c:\users\oskar.bom\documents\visual studio 2015\Projects\GitHubHelloWorld\GitHubHelloWorld\bin\Debug\GitHubHelloWorld.exe.config
+c:\users\oskar.bom\documents\visual studio 2015\Projects\GitHubHelloWorld\GitHubHelloWorld\bin\Debug\GitHubHelloWorld.exe
+c:\users\oskar.bom\documents\visual studio 2015\Projects\GitHubHelloWorld\GitHubHelloWorld\bin\Debug\GitHubHelloWorld.pdb
+c:\users\oskar.bom\documents\visual studio 2015\Projects\GitHubHelloWorld\GitHubHelloWorld\obj\Debug\GitHubHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\oskar.bom\documents\visual studio 2015\Projects\GitHubHelloWorld\GitHubHelloWorld\obj\Debug\GitHubHelloWorld.exe
+c:\users\oskar.bom\documents\visual studio 2015\Projects\GitHubHelloWorld\GitHubHelloWorld\obj\Debug\GitHubHelloWorld.pdb
